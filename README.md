@@ -1,3 +1,3 @@
 # Take_2_Repo
 
-Kim's second attemp
+Kim's second change attemp
